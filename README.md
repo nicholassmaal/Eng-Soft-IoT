@@ -1,10 +1,12 @@
 Há dois projetos nesse repositório:
 
 1) Leaf Node
+
   Esse projeto já está inicialmente instalado dentro do Raspberry.
   O Leaf Node (ou 'nó folha') representa um equipamento ou dispositivo inteligente.
 
 2) local-controller
+
   Esse projeto deve ser baixado em um PC (ou notebook) e faz o papel do controlador principal da casa conectada.
 
 
