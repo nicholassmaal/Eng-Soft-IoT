@@ -1,0 +1,13 @@
+#Comentário linha 1
+
+ligar_led: 100.24 == 1
+100.17 1
+100.22 1
+100.27 0
+
+desligar_led: 100.24 == 0
+100.17 0
+100.22 0
+100.27 1
+
+#Outra linha de comentário

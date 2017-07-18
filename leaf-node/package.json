@@ -1,0 +1,9 @@
+{
+  "name": "light-switch",
+  "main": "actuator.js",
+  "dependencies": {
+    "rainfall": "^0.1.3",
+    "rainfall-leaf": "^0.1.4",
+    "rainfall-tcp": "^0.1.1"
+  }
+}
