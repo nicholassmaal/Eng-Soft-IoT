@@ -19,21 +19,27 @@ REQUISITOS PARA COMPILAR E EXECUTAR OS PROJETOS
 
 
 PREPARAR O LOCAL-CONTROLLER (no PC)
------------------------------
-a) Acessar a pasta do projeto e executar:
+-----------------------------------
+- Acessar a pasta do projeto e executar:
+
   npm install rainfall
+
   npm install rainfall-tcp
 
-b) Uma vez realizado o passo 'a' pela primeira vez, para executar, rodar o comando:
+- Uma vez realizado o passo anterior pela primeira vez, para executar, rodar o comando:
+
   nodejs controller.js
 
 
 PREPARAR O LEAF-NODE (no Raspberry)
------------------------------
-a) Acessar a pasta do projeto e executar:
+------------------------------------
+- Acessar a pasta do projeto e executar:
+
   npm install rainfall-tcp
+
   npm install rainfall-leaf
 
-b) Uma vez realizado o passo 'a' pela primeira vez, para executar, rodar o comando:
+- Uma vez realizado o passo anterior pela primeira vez, para executar, rodar o comando:
+
   nodejs controller.js
 
