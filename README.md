@@ -15,9 +15,7 @@ INSTRUÇÕES
 
 REQUISITOS PARA COMPILAR E EXECUTAR OS PROJETOS
 
-- Instalar o npm na máquina;
-
-- Instalar o NodeJS na máquina;
+- Instalar o NodeJS na máquina - https://nodejs.org/en/download/
 
 
 PREPARAR O LOCAL-CONTROLLER (no PC)
